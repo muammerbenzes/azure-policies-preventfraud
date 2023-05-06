@@ -24,10 +24,10 @@ P.S.: Related policies selected from [Azure Policy built-in policy definitions](
 ### Optional Policies
 [Selected Optional Azure Policies](/AzurePolicies-Optional.md)
 
-### 
-### 
-### 
+<br />
+<br />
+<br />
 
-### If you want, you can download all selected Azure Policies as an Excel file via below link:
+If you want, you can download all selected Azure Policies as an Excel file via below link:
 [All Selected Azure Policies](/AzureFraud-Policies.xlsx)
 
