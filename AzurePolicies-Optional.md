@@ -1,3 +1,4 @@
+<!-- 
 ---
 author: Muammer Benzes
 ms.service: azure-policy
@@ -6,6 +7,7 @@ ms.date: 05/06/2023
 ms.author: muammerb
 ms.custom: generated
 ---
+-->
 
 |Name<br /><sub>(Azure portal)</sub> |Description |Effect(s) |Version<br /><sub>(GitHub)</sub> |
 |---|---|---|---|
