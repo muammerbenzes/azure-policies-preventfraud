@@ -8,9 +8,19 @@ ms.custom: generated
 ---
 
 
-# azure-policies-preventfraud
-Selected Azure Policies to prevent fraud related activities
+# Azure Policies to Prevent Fraud, Increase Security
+Welcome to the repository for selected Azure Policies to prevent fraud related activities. Please click below links to open related policies. To apply any Azure Policy, you just need to click policy Name (Azure Portal) link.
+
+P.S.: Related policies selected from [Azure Policy built-in policy definitions](https://learn.microsoft.com/en-us/azure/governance/policy/samples/built-in-policies) by Microsoft CEMA region team!
+
 
 ## Security Policies
-
 [Selected Azure Security Policies](AzurePolicies-Security.md)
+
+## Cost Policies
+[Selected Azure Cost Policies](AzurePolicies-Cost.md)
+
+## Optional Policies
+[Selected Optional Azure Policies](/AzurePolicies-Optional.md)
+
+
