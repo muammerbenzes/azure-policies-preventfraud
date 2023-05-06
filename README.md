@@ -15,19 +15,19 @@ Welcome to the repository for selected Azure Policies to prevent fraud related a
 P.S.: Related policies selected from [Azure Policy built-in policy definitions](https://learn.microsoft.com/en-us/azure/governance/policy/samples/built-in-policies) by Microsoft CEMA regional team!
 
 
-## Security Policies
+### Security Policies
 [Selected Azure Security Policies](AzurePolicies-Security.md)
 
-## Cost Policies
+### Cost Policies
 [Selected Azure Cost Policies](AzurePolicies-Cost.md)
 
-## Optional Policies
+### Optional Policies
 [Selected Optional Azure Policies](/AzurePolicies-Optional.md)
 
-###
-###
-###
+### 
+### 
+### 
 
-**If you want, you can download all selected Azure Policies as an Excel file via below link:**
+### If you want, you can download all selected Azure Policies as an Excel file via below link:
 [All Selected Azure Policies](/AzureFraud-Policies.xlsx)
 
