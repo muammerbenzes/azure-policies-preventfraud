@@ -13,4 +13,4 @@ Selected Azure Policies to prevent fraud related activities
 
 ## Security Policies
 
-[!INCLUDE [AzurePolicies-Security.md](AzurePolicies-Security.md)]
+[AzurePolicies-Security.md](AzurePolicies-Security.md)
