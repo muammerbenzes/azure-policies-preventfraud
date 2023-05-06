@@ -17,13 +17,13 @@ P.S.: Related policies selected from [Azure Policy built-in policy definitions](
 
 ### Security Policies
 [Selected Azure Security Policies](AzurePolicies-Security.md)
-
+## 
 ### Cost Policies
 [Selected Azure Cost Policies](AzurePolicies-Cost.md)
-
+## 
 ### Optional Policies
 [Selected Optional Azure Policies](/AzurePolicies-Optional.md)
-
+##
 <br />
 <br />
 <br />
