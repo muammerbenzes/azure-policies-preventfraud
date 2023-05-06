@@ -1,3 +1,4 @@
+<!-- COMMENT -->
 ---
 author: Muammer Benzes
 ms.service: azure-policy
@@ -6,9 +7,9 @@ ms.date: 04/10/2023
 ms.author: muammerb
 ms.custom: generated
 ---
+<!-- COMMENT -->
 
-
-# Azure Policies to Prevent Fraud, Increase Security
+# Azure Policies to Prevent Fraud & Increase Security
 Welcome to the repository for selected Azure Policies to prevent fraud related activities. Please click below links to open related policies. To apply any Azure Policy, you just need to click policy Name (Azure Portal) link.
 
 P.S.: Related policies selected from [Azure Policy built-in policy definitions](https://learn.microsoft.com/en-us/azure/governance/policy/samples/built-in-policies) by Microsoft CEMA region team!
